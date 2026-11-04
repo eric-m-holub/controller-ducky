@@ -271,7 +271,7 @@ To build and run it on a connected Flipper in one step, use `ufbt launch`.
 ---
 
 ## License
-This project is licensed under the standard Apache licesnse. See included [License](LICENSE).
+This project is licensed under the standard Apache license. See included [License](LICENSE).
 
 ## Disclaimer
 
